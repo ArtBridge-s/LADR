@@ -1,2 +1,2 @@
-# BE-ADR
-Architecture Decision Record
+# LADR
+Light Architecture Decision Record
